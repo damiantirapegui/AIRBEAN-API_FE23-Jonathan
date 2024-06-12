@@ -27,6 +27,14 @@ const addPromotion = async (req, res) => {
   }
 };
 
-const getPromotions = 
+const getPromotions = async (req, res) => {
+  try {
+    const promotions = await db.promotions.find({});
+    return res.status(200).json({ promotions });
+  } catch (error) {
+    console.error("Error fetching promotions:", error);
+    return res.status(500).json({ error: "Could not fetch promotions" });
+  }
+};
 
-export { addPromotion };
+export { addPromotion, getPromotions };
