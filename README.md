@@ -2,7 +2,7 @@
 
 ### Created by Dylan, Eric, Jonathan, Marina, Shahin, Sofia
 
-Link to document: https://docs.google.com/document/d/1s3K9dKXD69TZhR_Ufa98Wu0PPgqFp-YzjAf2Fx0z-jM/edit?usp=sharing
+Link to document: https://docs.google.com/document/d/1pOovep_lnmzYjM1koyztNiJIAB_XBALulh1j2V3UMoo/edit
 
 ### The description of the task:
 
